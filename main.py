@@ -14,7 +14,7 @@ from FUN import get_dog, get_anekdot
 import MyGame
 
 
-bot = telebot.TeleBot('5241329098:AAFwTwBMDbk8fD-GVHlXBlz52jI9X4SWoVk')
+bot = telebot.TeleBot('7571279617:AAGLyOuSLe00ZhSPT_sG2X0xRCKmQw7yqXc')
 
 
 # t.me/Artem_Boyarchenko_1MD4_bot # Создаем экземпляр бота @Artem_Boyarchenko_1MD4_bot
