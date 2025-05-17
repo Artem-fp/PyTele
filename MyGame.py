@@ -5,7 +5,7 @@ import MenuBot
 from MenuBot import Menu
 
 bot = telebot.TeleBot(
-    '5241329098:AAFwTwBMDbk8fD-GVHlXBlz52jI9X4SWoVk')
+    '7571279617:AAGLyOuSLe00ZhSPT_sG2X0xRCKmQw7yqXc')
 
 
 def goto_menu(bot, chat_id, name_menu):
